@@ -3,4 +3,4 @@ string starting from index 1."""
 
 str = "Nikhil Bhatia"
 
-print(f"Every alternate character of string:{str[::2]}")
+print(f"Every alternate character of string:{str[1::2]}")
